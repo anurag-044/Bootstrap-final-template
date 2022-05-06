@@ -2,58 +2,49 @@
   color: rgba(109, 85, 248, 255);
 }
 .backcolor {
-    background: rgba(109, 85, 248, 255);
-  }
+  background: rgba(109, 85, 248, 255);
+}
 .btn-primary {
   background-color: rgba(109, 85, 248, 255);
   border-color: rgba(109, 85, 248, 255);
 }
-
 .font-big-size {
   font-size: 28px;
   color: gray;
 }
-
 .gray-text-color {
   color: rgb(95, 95, 95);
 }
-
 .icon {
   font-size: 24px;
 }
-
 .icon-trophy {
   width: 50px;
   height: 50px;
   color: rgba(250, 193, 77, 255);
   background: #fef5de;
 }
-
 .icon-market {
   width: 50px;
   height: 50px;
   color: rgba(59, 189, 125, 255);
   background: rgba(149, 240, 194, 255);
 }
-
 .icon-screen {
   width: 50px;
   height: 50px;
   background: #e9e4fc;
   color: rgba(109, 85, 248, 255);
 }
-
 .small-text {
   font-size: 12px;
 }
-
 .icon-back {
   width: 60px;
   height: 60px;
   background: white;
   color: rgba(109, 85, 248, 255);
 }
-
 .back-section-6 {
   background: rgb(229, 9, 232);
   background: radial-gradient(
@@ -62,49 +53,39 @@
     rgba(13, 7, 221, 1) 78%
   );
 }
-
 .search-input {
   border-right: 0;
   width: 50%;
 }
-
 .input-group-addon {
   background: white;
   border-left: 0;
   border-right: 0;
 }
-
 .input-group-addon:last-child {
   border-left: 0;
   border-right: 1px solid #ccc;
 }
-
 .btnn {
   transform: translate(-7%, -20%);
 }
-
 .newbtn {
   background: rgba(53, 186, 121, 255);
   border-color: rgba(53, 186, 121, 255);
 }
-
-.small-text-2{
-    font-size: 14px;
+.small-text-2 {
+  font-size: 14px;
 }
-
-.padd{
-    line-height: 35px;
+.padd {
+  line-height: 35px;
 }
-
-.back-3{
-    background: rgba(85,57,249,255);
+.back-3 {
+  background: rgba(85, 57, 249, 255);
 }
-
-.map{
-    background: linear-gradient(rgba(0, 0, 0, 0.497),rgba(0, 0, 0, 0.563)),url(bg12.jpg);
+.map {
+  background: linear-gradient(rgba(0, 0, 0, 0.497), rgba(0, 0, 0, 0.563)),
+    url(bg12.jpg);
 }
-
-.color-2{
-    color: rgba(53, 186, 121, 255);
-
+.color-2 {
+  color: rgba(53, 186, 121, 255);
 }
